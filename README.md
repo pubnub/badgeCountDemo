@@ -1,5 +1,7 @@
 # push-demo
 
+**This was best practice on iOS 9 but is no longer best practice for iOS 10, use at your own discretion**
+
 Run "pod install" in root directory of repo to install pods and only open Push.xcworkspace
 
 Need to have proper provisioning profiles and APNS certs. If you need help, go [here.](https://www.pubnub.com/docs/ios-objective-c/mobile-gateway-sdk-v4)
